@@ -1,19 +1,4 @@
 Bob's Burgers "Snake" Game
-==================
-
-Feed Bob Burgers!
-
-Use the arrow keys to move towards the burger on the screen.
-
-Watch as Bob's head multiplies as he eats his burgers!
-
-## Requirements:
-
-1. Python 3.4+
-2. Pygame
-
-
-Bob's Burgers "Snake" Game
 ==========================
 
 Feed Bob Burgers!
